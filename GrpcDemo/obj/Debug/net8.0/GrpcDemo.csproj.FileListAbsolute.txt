@@ -1,0 +1,2 @@
+/Users/Pratik/Projects/100DaysChallenge/Projects/gPRC/GrpcDemo/obj/Debug/net8.0/GrpcDemo.csproj.AssemblyReference.cache
+/Users/Pratik/Projects/100DaysChallenge/Projects/gPRC/GrpcDemo/obj/Debug/net8.0/GrpcDemo.GeneratedMSBuildEditorConfig.editorconfig
